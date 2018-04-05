@@ -13,3 +13,8 @@ There are several advantages to using test driven development. To summarize its 
 
 ## How does Test Driven Development work? 
 
+Once you separate your code into smaller units, you will then create tests for each specific unit. These tests will be designed to make your code fail. Once your code does, you will then refactor it in order for your code to pass all the tests. 
+You will go through this process everytime you want to make a change to your program.  
+The benefits of this is that from having previously established tests, it will be more clear which parts of your program is failing. This will significantly reduce the amount of time you spend in integration and debugging.
+
+
