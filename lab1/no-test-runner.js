@@ -1,3 +1,5 @@
+//this contains both code and tests
+
 const checkout = order => {
   return order.items.reduce(
     (prev, curr) => curr.price * (curr.quantity || 1) + prev,
