@@ -1,4 +1,4 @@
-const getMovies = require('../getMovies')
+const getMovies = require('../getMovies/getMovies')
 
 const tmdbAPI = '2d1610b0077610c43b2fe59ad827cfec'
 
