@@ -18,3 +18,7 @@ You will go through this process everytime you want to make a change to your pro
 The benefits of this is that from having previously established tests, it will be more clear which parts of your program is failing. This will significantly reduce the amount of time you spend in integration and debugging.
 
 # Jest 
+
+# Coming Soon
+
+Working with mock api http requests
