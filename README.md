@@ -19,6 +19,8 @@ The benefits of this is that from having previously established tests, it will b
 
 # Jest 
 
+Jest is a test runner that was made and utilized by Facebook's development teams. In my view, Jest is a great choice as it has been used extensively by Facebook, making it battle tested. As well, it is a test runner built within the create-react-app. 
+
 # Coming Soon
 
-Working with mock api http requests
+Lab used for testing API calls with Mock APIs. 
